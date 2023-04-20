@@ -10,8 +10,10 @@
 
 *.avi
 
-*.hp5
+*.h5
 
 *.dat
 
 *.pickle
+
+**/__pycache__/
