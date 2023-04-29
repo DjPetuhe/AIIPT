@@ -17,3 +17,5 @@
 *.pickle
 
 **/__pycache__/
+
+**/my_logs/
